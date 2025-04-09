@@ -37,19 +37,19 @@ npm run dev
 
 # API Endpoints
 
-Method	Endpoint	    Description <br>
-POST	/users/signup	Register a new user   <br>
+Method 	Endpoint	     Description <br>
+POST	 /users/signup	Register a new user   <br>
 POST	/users/login	Authenticate user and return token
 
 
 Book Routes
 
-Method  	Endpoint	        Description
-GET	         /books	            Get all books (with optional filters)
-POST	    /books	        Add a new book (auth required)
-GET	        /books/:id	        Get book by ID
-PUT	        /books/:id	        Update book (auth required)
-DELETE	    /books/:id	    Delete book (auth required)
+Method    	Endpoint	        Description   <br>
+GET	         /books	            Get all books (with optional filters)  <br>
+POST	       /books	        Add a new book (auth required)  <br>
+GET	        /books/:id	        Get book by ID  <br>
+PUT	        /books/:id	        Update book (auth required)  <br>
+DELETE	    /books/:id	    Delete book (auth required)  <br>
 
 
 # Books Filter
