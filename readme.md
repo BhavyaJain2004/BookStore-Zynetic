@@ -53,16 +53,16 @@ DELETE	    /books/:id	    Delete book (auth required)  <br>
 
 
 # Books Filter
-You can filter books by Author , Category , Title and Rating
+You can filter books by Author , Category , Title and Rating <br>
 
 eg - GET /books?author=Rowling&rating=4
 
 
 Assumptions-
 
-1)Users must log in before adding/updating/deleting books.
-2)Book ratings are numbers (e.g., 3.5, 4, etc.)
-3)Data is stored on MongoDB Atlas.
+1)Users must log in before adding/updating/deleting books.  <br>
+2)Book ratings are numbers (e.g., 3.5, 4, etc.) <br>
+3)Data is stored on MongoDB Atlas. <br>
 
 
 # Screenshots - 
@@ -89,9 +89,10 @@ Assumptions-
 
 ![alt text](</screenshots/Screenshot from 2025-04-09 17-54-25.png>)
 
+
 Author - 
 
-Bhavya Jain
+Bhavya Jain <br>
 (Made with love & learning)
 
 
