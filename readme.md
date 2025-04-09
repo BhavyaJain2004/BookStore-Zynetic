@@ -37,8 +37,8 @@ npm run dev
 
 # API Endpoints
 
-Method	Endpoint	    Description
-POST	/users/signup	Register a new user
+Method	Endpoint	    Description <br>
+POST	/users/signup	Register a new user   <br>
 POST	/users/login	Authenticate user and return token
 
 
