@@ -18,8 +18,7 @@ Project Setup
 
 1) Clone the Repository
 
-git clone <your-repo-link>
-cd ZYNETIC 
+git clone https://github.com/BhavyaJain2004/BookStore-Zynetic
 
 2) Install Dependencies
 
