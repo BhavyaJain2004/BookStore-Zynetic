@@ -27,8 +27,7 @@ npm install
 3) Create a .env file in the root directory with following details : 
 
 PORT = 3000
-MONGO_URI=mongodb+srv://Bhavyajain2004:2004@cluster0.8qple.mongodb.net/zynetic?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=BhavyaJain2004
+
 
 4) Run the Server 
 
